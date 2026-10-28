@@ -22,6 +22,8 @@ archive. No sessions or transcripts are published here.
   VERSO around non-destructive projection and return to source.
 - [`related-work/context.md`](related-work/context.md) — adjacent established
   concepts and the vocabulary this project uses provisionally.
+- [`notes/2026-10-status.md`](notes/2026-10-status.md) — October 2026
+  progress note: how the theses are being operationalized. No measurements.
 - [`PUBLIC-SCOPE.md`](PUBLIC-SCOPE.md) — the boundary of this public shell.
 
 ## Related public work
